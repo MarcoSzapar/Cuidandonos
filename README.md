@@ -1,5 +1,5 @@
 # Cuidandonos
-Actividad práctica de la clase 03 de DdS.
+Actividad práctica de la clase 04 de DdS.
 
 Los integrantes son:
 
